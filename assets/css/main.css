@@ -622,7 +622,7 @@ input, select, textarea {
 		.image:before {
 			pointer-events: none;
 			background-image: url("../../images/overlay.png");
-			background-color: rgba(19, 21, 25, 0.5);
+			/*background-color: rgba(19, 21, 25, 0.5);*/
 			border-radius: 4px;
 			content: '';
 			display: block;
@@ -1263,11 +1263,11 @@ input, select, textarea {
 			}
 
 		#header .logo {
-			width: 7rem;
-			height: 7rem;
+			width: 8rem;
+			height: 8rem;
 			line-height: 4rem;
-			border: solid 1px #ffffff;
-			border-radius: 100%;
+			/*border: solid 1px #ffffff;
+			border-radius: 100%;*/
 		}
 
 			#header .logo .icon:before {
@@ -1594,6 +1594,8 @@ input, select, textarea {
 			}
 
 		}
+
+	
 
 /* Footer */
 
