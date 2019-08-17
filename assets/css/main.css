@@ -209,6 +209,11 @@ input, select, textarea {
 		font-size: 1rem;
 	}
 
+		h3.htitle {
+			margin: auto;
+			width: 50%;
+		}
+
 	h4 {
 		font-size: 0.8rem;
 	}
