@@ -679,6 +679,11 @@ input, select, textarea {
 				width: 100%;
 			}
 
+			.image.chris img {
+				margin: auto;
+				width: 50%;
+			}
+
 		@media screen and (max-width: 736px) {
 
 			.image.main {
