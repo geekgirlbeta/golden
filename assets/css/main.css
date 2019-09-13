@@ -216,12 +216,13 @@ input, select, textarea {
 		}
 
 	h4 {
-		font-size: 0.8rem;
+		font-size: 0.95rem;
 	}
 
 		h4.htitle {
+			padding-left: 1.55rem;
 			margin: auto;
-			width: 50%;
+			width: 60%;
 			align-content: center;
 		}
 
