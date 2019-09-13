@@ -242,11 +242,48 @@ input, select, textarea {
 		}
 
 		h2 {
+			font-size: 1.5em;
+			line-height: 1.5;
+		}
+
+		h4 {
+			font-size: 0.90;
+		}
+	
+			h4.htitle {
+				padding-left: 2.45rem;
+				margin: auto;
+				width: 65%;
+				align-content: center;
+			}
+
+	}
+	/* phones */
+	@media screen and (max-width: 480px) {
+
+		h1 {
+			font-size: 1.75rem;
+			line-height: 1.4;
+		}
+
+		h2 {
 			font-size: 1.0em;
 			line-height: 1.5;
 		}
 
+		h4 {
+			font-size: 0.60rem;
+		}
+	
+			h4.htitle {
+				padding-left: 1.2rem;
+				margin: auto;
+				width: 70%;
+				align-content: center;
+			}
+
 	}
+	
 
 	sub {
 		font-size: 0.8rem;
